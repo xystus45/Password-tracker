@@ -28,7 +28,7 @@ As a user I would like:
 
 ## SetUp / Installation Requirements
 ### Prerequisites
-* python3.6
+* python3.7
 * pip
 * pyperclip
 * xclip
